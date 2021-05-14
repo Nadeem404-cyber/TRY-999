@@ -426,7 +426,7 @@ def a_s():
     p = ThreadPool(30)
     p.map(main, id)
     print 47 * '-'
-    print ' \033[1;92mBILAL BLACK HATE HACKER'
+    print ' \033[1;92mB1LAL BLACK HATE HACKER'
     print ' \033[1;92mTotal \033[1;95mOk\033[1;90m/\033[1;91mCp:' + str(len(oks)) + '/' + str(len(cps))
     print 47 * '-'
     raw_input(' \033[1;90mPress enter to back')
